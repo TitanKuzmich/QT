@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource"/>
+    <qresource prefix="/res">
+        <file>img/rowSum.png</file>
+    </qresource>
+</RCC>
